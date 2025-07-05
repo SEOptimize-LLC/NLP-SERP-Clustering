@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+networkx
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+python-louvain
+sentence-transformers
