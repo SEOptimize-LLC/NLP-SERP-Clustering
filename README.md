@@ -1,5 +1,3 @@
-Of course. Here is a descriptive and detailed `README.md` file for your GitHub repository, created based on the provided Python script and incorporating best practices for README file.
-
 # Keyword Clustering Tool based on SERP Overlap
 
 This project provides an interactive web application built with Streamlit for clustering keywords based on the similarity of their Search Engine Results Pages (SERPs). It helps SEO specialists and content strategists identify keyword groups with similar user intent, which is crucial for effective content planning and avoiding keyword cannibalization.
